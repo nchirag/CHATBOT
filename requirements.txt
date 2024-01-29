@@ -1,0 +1,1 @@
+transformers==4.16.1  # Use the version that you need
